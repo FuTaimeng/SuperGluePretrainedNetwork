@@ -209,11 +209,11 @@ if __name__ == '__main__':
     for i, pair in enumerate(pairs):
         name0, name1 = pair[:2]
         stem0, stem1 = Path(name0).stem, Path(name1).stem
-        matches_path = output_dir / '{}_{}_matches.npz'.format(stem0, stem1)
-        eval_path = output_dir / '{}_{}_evaluation.npz'.format(stem0, stem1)
-        viz_path = output_dir / '{}_{}_matches.{}'.format(stem0, stem1, opt.viz_extension)
+        matches_path = output_dir / '{}_matches.npz'.format(i)
+        eval_path = output_dir / '{}_evaluation.npz'.format(i)
+        viz_path = output_dir / '{}_matches.{}'.format(i, opt.viz_extension)
         viz_eval_path = output_dir / \
-            '{}_{}_evaluation.{}'.format(stem0, stem1, opt.viz_extension)
+            '{}_evaluation.{}'.format(i, opt.viz_extension)
 
         # Handle --cache logic.
         do_match = True
@@ -408,7 +408,7 @@ if __name__ == '__main__':
             name0, name1 = pair[:2]
             stem0, stem1 = Path(name0).stem, Path(name1).stem
             eval_path = output_dir / \
-                '{}_{}_evaluation.npz'.format(stem0, stem1)
+                '{}_evaluation.npz'.format(i)
             results = np.load(eval_path)
             pose_error = np.maximum(results['error_t'], results['error_R'])
             pose_errors.append(pose_error)
