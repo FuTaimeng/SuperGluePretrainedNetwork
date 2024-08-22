@@ -1,0 +1,10 @@
+C:/Users/Tymon/Documents/Projects/kitti/2011_09_30/2011_09_30_drive_0018_sync/image_02/data/0000000573.png C:/Users/Tymon/Documents/Projects/kitti/2011_09_30/2011_09_30_drive_0018_sync/image_02/data/0000001330.png
+C:/Users/Tymon/Documents/Projects/kitti/2011_09_30/2011_09_30_drive_0018_sync/image_02/data/0000000044.png C:/Users/Tymon/Documents/Projects/kitti/2011_09_30/2011_09_30_drive_0018_sync/image_02/data/0000002446.png
+C:/Users/Tymon/Documents/Projects/kitti/2011_09_30/2011_09_30_drive_0018_sync/image_02/data/0000000570.png C:/Users/Tymon/Documents/Projects/kitti/2011_09_30/2011_09_30_drive_0018_sync/image_02/data/0000001328.png
+C:/Users/Tymon/Documents/Projects/kitti/2011_09_30/2011_09_30_drive_0018_sync/image_02/data/0000000036.png C:/Users/Tymon/Documents/Projects/kitti/2011_09_30/2011_09_30_drive_0018_sync/image_02/data/0000002439.png
+C:/Users/Tymon/Documents/Projects/kitti/2011_09_30/2011_09_30_drive_0018_sync/image_02/data/0000000565.png C:/Users/Tymon/Documents/Projects/kitti/2011_09_30/2011_09_30_drive_0018_sync/image_02/data/0000001322.png
+C:/Users/Tymon/Documents/Projects/kitti/2011_09_30/2011_09_30_drive_0018_sync/image_02/data/0000000050.png C:/Users/Tymon/Documents/Projects/kitti/2011_09_30/2011_09_30_drive_0018_sync/image_02/data/0000002451.png
+C:/Users/Tymon/Documents/Projects/kitti/2011_09_30/2011_09_30_drive_0018_sync/image_02/data/0000000567.png C:/Users/Tymon/Documents/Projects/kitti/2011_09_30/2011_09_30_drive_0018_sync/image_02/data/0000001325.png
+C:/Users/Tymon/Documents/Projects/kitti/2011_09_30/2011_09_30_drive_0018_sync/image_02/data/0000000036.png C:/Users/Tymon/Documents/Projects/kitti/2011_09_30/2011_09_30_drive_0018_sync/image_02/data/0000002439.png
+C:/Users/Tymon/Documents/Projects/kitti/2011_09_30/2011_09_30_drive_0018_sync/image_02/data/0000000569.png C:/Users/Tymon/Documents/Projects/kitti/2011_09_30/2011_09_30_drive_0018_sync/image_02/data/0000001325.png
+C:/Users/Tymon/Documents/Projects/kitti/2011_09_30/2011_09_30_drive_0018_sync/image_02/data/0000000033.png C:/Users/Tymon/Documents/Projects/kitti/2011_09_30/2011_09_30_drive_0018_sync/image_02/data/0000002436.png
